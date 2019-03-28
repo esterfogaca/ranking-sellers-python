@@ -1,0 +1,6 @@
+[
+  "test_main.py::SellersRanckingTests::test_best_seller",
+  "test_main.py::SellersRanckingTests::test_best_seller_store",
+  "test_main.py::SellersRanckingTests::test_rancking_list",
+  "test_main.py::SellersRanckingTests::test_sales_goals"
+]
